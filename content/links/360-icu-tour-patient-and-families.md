@@ -1,4 +1,4 @@
 ---
-name: "ICU 360 Tour - patient and families "
+name: "ICU 360 Tour - Patient and Families "
 url: https://kuula.co/share/726ZR
 ---
