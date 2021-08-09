@@ -1,4 +1,4 @@
 ---
-name: Equipment Support
+name: Equipment Support Resource
 url: http://matrix.thelearningcollaborative.co.uk/
 ---
