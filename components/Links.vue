@@ -1,18 +1,27 @@
 <template>
-  <div>
-    <a
+  <ul class="nhsuk-grid-row nhsuk-card-group">
+    <li
       v-for="link in links"
       :key="link.url"
-      :href="link.url"
-      target="_blank"
-      rel="noopener noreferrer"
-      class="column is-full"
+      class="nhsuk-grid-column-one-third nhsuk-card-group__item"
     >
-      <b-button type="is-primary" outlined class="margin">
-        {{ link.name }}
-      </b-button>
-    </a>
-  </div>
+      <div class="nhsuk-card nhsuk-card--clickable">
+        <div class="nhsuk-card__content">
+          <h2 class="nhsuk-card__heading nhsuk-heading-s">
+            <a
+              class="nhsuk-card__link"
+              :href="link.url"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {{ link.name }}
+            </a>
+          </h2>
+          <p class="nhsuk-card__description"></p>
+        </div>
+      </div>
+    </li>
+  </ul>
 </template>
 
 <script lang="ts">
@@ -35,3 +44,7 @@ export default class Links extends Vue {
   }
 }
 </script>
+
+<style lang="scss">
+@import 'node_modules/nhsuk-frontend/packages/components/card/card';
+</style>

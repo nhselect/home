@@ -1,5 +1,4 @@
 export default {
-
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
@@ -32,12 +31,20 @@ export default {
     '@nuxt/typescript-build',
     // https://go.nuxtjs.dev/stylelint
     '@nuxtjs/stylelint-module',
+    '@nuxtjs/style-resources',
   ],
+
+  styleResources: {
+    scss: [
+      '~assets/scss/_variables.scss',
+      'nhsuk-frontend/packages/core/all.scss',
+    ],
+  },
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://go.nuxtjs.dev/buefy
-    'nuxt-buefy',
+    // 'nuxt-buefy',
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
   ],
