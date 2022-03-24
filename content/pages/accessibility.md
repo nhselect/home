@@ -9,7 +9,7 @@ This accessibility statement applies to content developed by the London Transfor
 
 It does not cover content curated from third party sources, as we have limited ability to update or resolve issues with accessibility for this content. Please refer to the author accessibility statements for information when available.
 
-Our resources are mostly hosted either on this site, or on (elearning for healthcare)[https://www.e-lfh.org.uk]. This site is run by the LTLC. We want as many people as possible to be able to use this content. For example, that means you should be able to:
+Our resources are mostly hosted either on this site, or on [elearning for healthcare](https://www.e-lfh.org.uk). This site is run by the LTLC. We want as many people as possible to be able to use this content. For example, that means you should be able to:
 
 - change colours, contrast levels and fonts
 - zoom in up to 300% without the text spilling off the screen
