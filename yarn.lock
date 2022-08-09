@@ -7238,10 +7238,10 @@ neo-async@^2.5.0, neo-async@^2.6.1, neo-async@^2.6.2:
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.6.2.tgz#b4aafb93e3aeb2d8174ca53cf163ab7d7308305f"
   integrity sha512-Yd3UES5mWCSqR+qNT93S3UoYUkqAZ9lLg8a7g9rimsWmYGK8cVToA4/sF3RrshdyV3sAGMXVUmpMYOw+dLpOuw==
 
-nhsuk-frontend@^5.2.1:
-  version "5.2.1"
-  resolved "https://registry.yarnpkg.com/nhsuk-frontend/-/nhsuk-frontend-5.2.1.tgz#aa3294f4579a60fd8a80061ff383ca4315cf759a"
-  integrity sha512-WMOZKbkAr131iItY+SR+U2Hxh8Q1s6iGsQCXaGdkDh0Ww2Tg3GfhrhRdfrMAAR02C2ZyK2L0WA8aI1ohOGSfLA==
+nhsuk-frontend@^6.1.2:
+  version "6.1.2"
+  resolved "https://registry.yarnpkg.com/nhsuk-frontend/-/nhsuk-frontend-6.1.2.tgz#c35a63cb64b55a243174d8929322c254f07a15f4"
+  integrity sha512-T/2alK4bhVAF/GR2j0yM+rqR6+I0Zy3f+QX2UCckgxNBsF06cvtekNfkoPZiMZqO7cN5I+GApLiWMqkQDUcwQw==
 
 no-case@^2.2.0:
   version "2.3.2"
