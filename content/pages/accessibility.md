@@ -1,15 +1,15 @@
 ---
-name: Accessibility statement for the London Transformation and Learning Collaborative (LTLC)
+name: Accessibility statement for the Learning and Education Network
 slug: accessibility
 ---
 
-# Accessibility statement for the London Transformation and Learning Collaborative (LTLC)
+# Accessibility statement for the Learning and Education Network
 
-This accessibility statement applies to content developed by the London Transformation and Learning Collaborative (LTLC), a Health Education England team which produces and curates educational content focused on national surge programmes.
+This accessibility statement applies to content developed by the Learning and Education Network, part of NHS Elect, which produces and curates educational content focused on national surge programmes.
 
 It does not cover content curated from third party sources, as we have limited ability to update or resolve issues with accessibility for this content. Please refer to the author accessibility statements for information when available.
 
-Our resources are mostly hosted either on this site, or on [elearning for healthcare](https://www.e-lfh.org.uk). This site is run by the LTLC. We want as many people as possible to be able to use this content. For example, that means you should be able to:
+Our resources are mostly hosted either on this site, or on [elearning for healthcare](https://www.e-lfh.org.uk). This site is run by the Learning and Education Network. We want as many people as possible to be able to use this content. For example, that means you should be able to:
 
 - change colours, contrast levels and fonts
 - zoom in up to 300% without the text spilling off the screen
@@ -31,7 +31,7 @@ We know some parts of our content are not fully accessible:
 
 ## What to do if you cannot access parts of this website
 
-If you need information on this website in a different format please contact LTLC@hee.nhs.uk and tell us:
+If you need information on this website in a different format please contact learningnetwork@nhselect.org.uk and tell us:
 
 - your name and email address
 - the nature of your enquiry
@@ -40,7 +40,7 @@ We’ll consider your request and get back to you as soon as possible.
 
 ## Reporting accessibility problems with this website
 
-We’re always looking to improve the accessibility of this website. If you find any problems not listed on this page or think we’re not meeting accessibility requirements, contact LTLC@hee.nhs.uk.
+We’re always looking to improve the accessibility of this website. If you find any problems not listed on this page or think we’re not meeting accessibility requirements, contact learningnetwork@nhselect.org.uk.
 
 ## Enforcement procedure
 
@@ -48,7 +48,7 @@ The Equality and Human Rights Commission (EHRC) is responsible for enforcing the
 
 ## Technical information about this website’s accessibility
 
-The LTLC is committed to making its website accessible, in accordance with the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018.
+The Learning and Education Network is committed to making its website accessible, in accordance with the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018.
 
 ## Compliance status
 
@@ -63,10 +63,10 @@ Content curated from third party sources has been checked to see if it meets our
 
 ## Non-compliance with the accessibility regulations
 
-Some video content produced by the LTLC do not have captions available.
+Some video content produced by the Learning and Education Network do not have captions available.
 
 We plan to add captions for all video content by April 2022. When we publish new content we’ll make sure our use of captions meets accessibility standards.
 
 ## Preparation of this accessibility statement
 
-This statement was prepared on the 24th March 2022.
+This statement was prepared on the 24th March 2022 and last updated on the 17th August 2022.
